@@ -1,10 +1,9 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: {{your plugin name here}}
-Upstream-Contact: {{your name here}} <{{your email here}}>
-Source: {{your plugin github url here}}
 
 Files: *
-Copyright: {{your name and email again}}
+Copyright: Roger Tabris
+License: GPL-3-or-later
+Comment: Derived from works of Michael Zahniser (under the same license)
 
 Files:
  icon*.png
