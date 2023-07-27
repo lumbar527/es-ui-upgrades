@@ -5,6 +5,11 @@ Copyright: Roger Tabris
 License: GPL-3-or-later
 Comment: Derived from works of Michael Zahniser (under the same license)
 
+Files: ui/*
+Copyright: Roger Tabris
+License: CC-BY-SA-4.0
+Comment: Derived form works of Michael Zahniser (under the same license)
+
 Files:
  icon*.png
 Copyright: Michael Zahniser <mzahniser@gmail.com>
