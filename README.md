@@ -1,3 +1,5 @@
+# **_THIS REPOSITORY IS NO LONGER BEING MAINTAINED. IT HAS BEEN REPLACED BY https://github.com/Cromha-Plugins/es-ui-upgrades!_**
+
 # es-ui-upgrades
 A plugin for [Endless Sky](https://github.com/endless-sky/endless-sky) that transforms the ui to a be a little more digital: blue, not really transparent but has a sheen.
 
